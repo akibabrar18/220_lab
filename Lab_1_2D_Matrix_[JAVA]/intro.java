@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class intro {
     static void printMatrixRowWise(int[][] matrix) {
         for (int i = 0; i < matrix.length; i++) {
